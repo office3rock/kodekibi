@@ -1,5 +1,5 @@
 {
-  "baseUrl": "kodekibi.ussl.co.il",
+  "baseUrl": "reshet.ussl.app/kodekibi",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
